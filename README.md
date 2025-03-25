@@ -33,4 +33,6 @@ layout:
 
 <figure><img src="https://cdn.discordapp.com/attachments/1340628565691207711/1352667843023339572/5_20250305164802.png?ex=67e2ce19&#x26;is=67e17c99&#x26;hm=f0cc7c52464e0a6cd901b55b77b4ff030544a869e691b88a27b6e4ec662f8922&#x26;" alt=""><figcaption><p> </p></figcaption></figure>
 
-{% embed url="https://discord.com/invite/ndneverdie" %}
+{% embed url="https://discord.com/invite/ndneverdie" fullWidth="false" %}
+&#x20;
+{% endembed %}
