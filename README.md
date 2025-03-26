@@ -25,7 +25,7 @@ layout:
 * <mark style="color:red;">**ห้าม**</mark>**สแปมข้อความ**
 * <mark style="color:red;">**ห้าม**</mark>**แซะ, ด่า, ข่มขู่, หรือเหยียด**
 * <mark style="color:red;">**ห้าม**</mark>**โปรโมทขายหรือเว็บพนัน**
-* <mark style="color:red;">**ห้าม**</mark>**ส่งลิงก์แปลกปลอม**
+* <mark style="color:red;">**ห้าม**</mark>**ส่งลิงก์แปลกปลอมหากบอทพบจะ**<mark style="color:red;">**ban**</mark>**ออกทันที**
 * <mark style="color:red;">**ห้าม**</mark>**นำปัญหาจากเซิร์ฟเวอร์อื่นมาเดือดร้อนในดิส**
 * <mark style="color:red;">**ห้าม**</mark>**ด่าหรือใช้คำไม่ให้เกียรติทีมงาน**
 
