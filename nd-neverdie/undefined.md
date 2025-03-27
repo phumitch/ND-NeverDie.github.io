@@ -24,7 +24,7 @@ layout:
 **꒰** <img src="https://cdn.discordapp.com/emojis/1173464392541687968.webp?size=40" alt=":01_ohmalord_203:" data-size="line"> **꒱ ไม่พูดจาเหยียดเพศ ถิ่นกำเนิด สีผิวหรือรูปร่างหน้าตาของผู้อื่น** \
 **꒰** <img src="https://cdn.discordapp.com/emojis/1173464392541687968.webp?size=40" alt=":01_ohmalord_203:" data-size="line"> **꒱ ไม่เเชร์จอหรือพูดถึงเว็บพนัน รูปติดเรท ภาพสยองขวัญ** \
 **꒰** <img src="https://cdn.discordapp.com/emojis/1173464392541687968.webp?size=40" alt=":01_ohmalord_203:" data-size="line"> **꒱ ไม่อนุญาตมุดห้อง เช่น ห้อง Sweet Room , จุดพักใจ เป็นต้น นอกจากเจ้าของห้องจะอนุญาตให้เข้ามาได้**\
-**꒰** <img src="https://cdn.discordapp.com/emojis/1173464392541687968.webp?size=40" alt=":01_ohmalord_203:" data-size="line"> **꒱สำหรับห้องVIPตั้งชื่อห้องให้เหมาะสมฝ่าฝืนปลดยศทันทีเป็นเวลา3วันตามกฏของเซิฟเวอร์**\
+**꒰** <img src="https://cdn.discordapp.com/emojis/1173464392541687968.webp?size=40" alt=":01_ohmalord_203:" data-size="line"> **꒱สำหรับห้องVIPตั้งชื่อห้องให้เหมาะสมฝ่าฝืนปลดยศทันทีเป็นเวลา3วันตามกฏของเซิฟเวอร์(รอบแรกตักเตือน)**\
 ![:emoji\_24\~2:](https://cdn.discordapp.com/emojis/1343615588194451546.webp?size=40\&animated=true)<mark style="color:red;">**`หากไม่ได้รับอนุญาตมีโทษถึงโดนหัวใจ 1 ดวงหรือปลดยศออกตามกำหนด`**</mark>![:emoji\_24\~2:](https://cdn.discordapp.com/emojis/1343615588194451546.webp?size=40\&animated=true)
 
 ***
