@@ -15,8 +15,6 @@ layout:
 
 # 📕 กฏเซิฟเวอร์ ND NeverDie
 
-
-
 * <mark style="color:red;">**ห้าม**</mark>**รูปโป๊หรือโชว์ร่างกายเกิน 60%** \[<img src="https://cdn.discordapp.com/emojis/1343617619407671338.webp?size=40&#x26;animated=true" alt="" data-size="line">]
 * <mark style="color:red;">**ห้าม**</mark>**ส่งรูปหรือข้อความ 18+** \[<img src="https://cdn.discordapp.com/emojis/1343615564827852934.webp?size=40&#x26;animated=true" alt="" data-size="line">]
 * <mark style="color:red;">**ห้าม**</mark>**พูดคุกคามทางเพศ**\[<img src="https://cdn.discordapp.com/emojis/1343617671480086599.webp?size=40&#x26;animated=true" alt="" data-size="line">]
@@ -24,7 +22,7 @@ layout:
 * <mark style="color:red;">**ห้าม**</mark>**โปรโมทเซิร์ฟเวอร์อื่น** \[<img src="https://cdn.discordapp.com/emojis/1351417070772027447.webp?size=40&#x26;animated=true" alt="" data-size="line">]
 * <mark style="color:red;">**ห้าม**</mark>**สแปมข้อความ**
 * <mark style="color:red;">**ห้าม**</mark>**แซะ, ด่า, ข่มขู่, หรือเหยียด**
-* <mark style="color:red;">**ห้าม**</mark>**โปรโมทขายหรือเว็บพนัน**
+* <mark style="color:red;">**ห้าม**</mark>**โปรโมทหรือพูดถึงเว็บพนันพบเห็น**<mark style="color:red;">**ban**</mark>**ทันที**
 * <mark style="color:red;">**ห้าม**</mark>**ส่งลิงก์แปลกปลอมหากบอทพบจะ**<mark style="color:red;">**ban**</mark>**ออกทันที**
 * <mark style="color:red;">**ห้าม**</mark>**นำปัญหาจากเซิร์ฟเวอร์อื่นมาเดือดร้อนในดิส**
 * <mark style="color:red;">**ห้าม**</mark>**ด่าหรือใช้คำไม่ให้เกียรติทีมงาน**
