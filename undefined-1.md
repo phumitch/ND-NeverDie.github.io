@@ -26,6 +26,8 @@ layout:
 * **ความผิดระดับ Level 5 >> \[ ความผิดระดับ**<mark style="color:red;">**ร้ายแรง**</mark>**&#x20;] ส่งลิ้งค์แปลกปลอม รูป 18+ โปรโมทเซิร์ฟเวอร์อื่น โปรโมทขายหรือเว็บพนัน หนีความผิด ออกจากเซิร์ฟเวอร์แล้วเข้าใหม่ นำปัญหาจากเซิร์ฟเวอร์อื่นมาเดือดร้อนในดิส ลับหลังทีมงาน พูดหรือเขียนที่ทำให้เวิร์ฟเวอร์เสียหาย ด่าทีมงานทำให้ทีมงานไม่สบายใจ โกงสลีปการซื้อขายยศ หรือ แอบอ้างการเป็นทีมงาน รวมถึงทำให้สร้างความสับสนในการที่ว่าซื้อยศแต่ไม่ได้ซื้อจริง** \
   **บทลงโทษ : แบน หรือ เตะออกจากดิส**&#x20;
 
+<figure><img src="https://ndneverdie.gitbook.io/~gitbook/image?url=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F1353666279080333333%2F1353674094725566474%2FScreenshot_2025-03-24-15-24-40-47_572064f74bd5f9fa804b05334aa4f912.jpg%3Fex%3D67e32b7e%26is%3D67e1d9fe%26hm%3D66687307a3c9cd63f4185afeaa1dd0ac56b4679341dd2054072dc4622e48c34c%26&#x26;width=768&#x26;dpr=1&#x26;quality=100&#x26;sign=af9313ff&#x26;sv=2" alt=""><figcaption><p> </p></figcaption></figure>
+
 {% content-ref url="https://app.gitbook.com/s/EovJU6fkIA8yrGnUswlo/" %}
 [BlackList ทีมงาน](https://app.gitbook.com/s/EovJU6fkIA8yrGnUswlo/)
 {% endcontent-ref %}
