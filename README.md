@@ -26,6 +26,7 @@ layout:
 * <mark style="color:red;">**ห้าม**</mark>**ส่งลิงก์แปลกปลอมหากบอทพบจะ**<mark style="color:red;">**ban**</mark>**ออกทันที**
 * <mark style="color:red;">**ห้าม**</mark>**นำปัญหาจากเซิร์ฟเวอร์อื่นมาเดือดร้อนในดิส**
 * <mark style="color:red;">**ห้าม**</mark>**ด่าหรือใช้คำไม่ให้เกียรติทีมงาน**
+* <mark style="color:red;">**ห้าม**</mark>**ใช้โปรไฟล์เริ่มต้นดิส**
 
 ***
 
